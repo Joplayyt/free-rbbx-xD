@@ -1,7 +1,7 @@
 # Rbx Generator 2024 (joke project)
 
 Welcome to the **Rbx Generator 2024** project! 🎉
-
+Avalible at [joplayyt.github.io/free-rbbx-xd/](https://joplayyt.github.io/free-rbbx-xd/index.html/)
 ## Description
 
 This project is a **joke website** that simulates a "Robux Generator." It looks like a real generator, but it’s entirely fake and just for fun. It does not generate real Robux or any other currency.
