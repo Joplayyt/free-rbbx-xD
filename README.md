@@ -12,7 +12,7 @@ The website is for educational and entertainment purposes.
 
 ## Disclaimer
 
-**This website is a joke and does not generate real Robux.** Always use legitimate means to acquire in-game currency and support your favorite games.
+**This website is a joke and does not generate real Robux.** Always use legitimate means to acquire in-game currency.
 
 ## Contact
 
